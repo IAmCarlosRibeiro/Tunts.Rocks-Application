@@ -44,7 +44,7 @@ Para que o projeto funcione, você precisa das credenciais da API do Google:
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/IAmCarlosRibeiro/NOME-DO-REPO>
+$ git clone https://github.com/IAmCarlosRibeiro/Tunts.Rocks-Application.git
 
 # Acesse a pasta do projeto no terminal
 $ cd NOME-DO-REPO
