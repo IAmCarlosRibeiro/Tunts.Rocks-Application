@@ -2,6 +2,7 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/google_sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Badge License](https://img.shields.io/badge/LICENSE-PROPRIETARY-red?style=for-the-badge)
 
 ## 💻 Sobre o projeto
 
@@ -55,7 +56,17 @@ $ npm install
 # Execute a aplicação
 $ node index.js
 ```
-### 📝 Licença
-##### Este projeto está sob a licença MIT.
+
 ---
+
+## ⚖️ Licença
+
+Este projeto é protegido por direitos autorais.
+**Você pode:** Baixar e utilizar o aplicativo para uso pessoal.
+**Você NÃO pode:** Modificar o código, distribuir cópias ou usar para fins comerciais sem permissão explícita do autor.
+
+Consulte o arquivo `LICENSE` para mais detalhes.
+
+---
+
 Feito com 💜 por Carlos Ribeiro

@@ -1,3 +1,12 @@
+//"""
+//    Tunts.Rocks Application
+//    Copyright (c) 2026 Carlos Eduardo Santos Ribeiro.
+//    All Rights Reserved.
+//
+//    This software is PROPRIETARY. Use is subject to the terms in the LICENSE file.
+//    Unauthorized distribution, modification, or commercial use is strictly prohibited.
+//"""
+
 const fs = require('fs').promises;
 const path = require('path');
 const process = require('process');
